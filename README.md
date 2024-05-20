@@ -6,9 +6,10 @@ Please contact me:
 dinh.nguyen2842000@gmail.com
 
 # A few images of the application
-login screen 
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0" width="400" height="800">
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/b8da155d-5029-4629-928b-db378771ba93" width="400" height="800">
+
+
+| ![Login](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0" width="400" height="800">) | ![HomeScreen](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0" width="400" height="800">)| ![MarkerSheet](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/b8da155d-5029-4629-928b-db378771ba93" width="400" height="800">) |
+
 <br>
 chat screen
 <img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/3c2ba9b0-c560-4d1a-b83a-4edcf3313f7a" width="400" height="800">
