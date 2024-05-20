@@ -8,7 +8,7 @@ dinh.nguyen2842000@gmail.com
 # A few images of the application
 
 
-| ![Login](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0" width="400" height="800">) | ![HomeScreen](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0" width="400" height="800">)| ![MarkerSheet](<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/b8da155d-5029-4629-928b-db378771ba93" width="400" height="800">) |
+| ![Login](https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0) | ![HomeScreen](https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0)| ![MarkerSheet](https://github.com/dinhnguyen28/app_chat/assets/82631708/b8da155d-5029-4629-928b-db378771ba93) |
 
 <br>
 chat screen
