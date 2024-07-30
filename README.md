@@ -1,19 +1,28 @@
-# app_chat
+## Description
+A Flutter application: iChatting
+- A chat app using Firebase and Stream (getstream.io), combine with NodeJS server to authentication.
+- Domain-Driven Design in Clean Architecture.
+ 
+## Features
+Main features of app:
+1. Login with email/password using Firebase, Google login.
+2. Private messaging or group messaging
+3. Send text, media, voice,...
 
-A private project for a Flutter and Firebase chat application using BloC for state management. If you have specific questions or need more information.
-<br>
-Please contact me:
-dinh.nguyen2842000@gmail.com
+## Technology Stack Used
+1. Flutter
+3. Firebase Authentication (for login)
+4. Firebase Storage (for media store)
+5. Stream SDK (for chatting)
+6. BLoC (state management)
+7. GetIt (Dependency injection)
 
-# A few images of the application
+## Bugs
+ ....
 
+## Testing
+... Not publish yet ...
 
-| ![Login](https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0) | ![HomeScreen](https://github.com/dinhnguyen28/app_chat/assets/82631708/e9c6b462-8c18-4364-a458-eac3e1c44cf0)| ![MarkerSheet](https://github.com/dinhnguyen28/app_chat/assets/82631708/b8da155d-5029-4629-928b-db378771ba93) |
-
-<br>
-chat screen
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/3c2ba9b0-c560-4d1a-b83a-4edcf3313f7a" width="400" height="800">
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/174dc9dd-5aa4-49ca-b54c-116d986fe149" width="400" height="800">
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/788898ae-cc6e-4a20-b9ea-560a66b9de7b" width="400" height="800">
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/15774bb6-57f9-49af-8f75-ab37846f007e" width="400" height="800">
-<img src="https://github.com/dinhnguyen28/app_chat/assets/82631708/1d7b7426-4e1a-49cf-a25d-d31672f67c7c" width="400" height="800">
+| ![signin_screen](https://github.com/dinhnguyen28/osm-android-native/assets/82631708/419d34c3-02c1-4297-9ff6-d90ceafac8d1) | ![signup_screen](https://github.com/user-attachments/assets/f71288a7-0ce8-4e6e-a34d-69e1f2ef7e4b) | ![forgot_password](https://github.com/user-attachments/assets/1c45bd14-a74f-4c17-81f6-a02b02d5e31c) | ![voice](https://github.com/user-attachments/assets/c46c2354-28fd-4f1c-b7ff-082eb37ee4e4) |
+|:---:|:---:|:---:|:---:|
+| ![profile](https://github.com/user-attachments/assets/4cb41414-ab70-441f-9638-f6b454bbb0fa) | ![channel_page](https://github.com/user-attachments/assets/62f725d4-740d-4acc-826a-b3f52374ebd5) | ![dark_mode](https://github.com/user-attachments/assets/a7efcae9-60f1-4491-821d-2d44dc9969f7) | ![chat_page](https://github.com/user-attachments/assets/c310735a-25d7-4f6d-bd5e-328d935c3009) |
